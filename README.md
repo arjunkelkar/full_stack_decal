@@ -1,0 +1,1 @@
+This is my development environment for the full stack decal, Fall 2026.
